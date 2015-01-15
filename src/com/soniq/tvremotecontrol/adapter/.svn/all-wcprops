@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/soniq/!svn/ver/373/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/adapter
+END
+AppListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/adapter/AppListAdapter.java
+END
+SetListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/adapter/SetListAdapter.java
+END
+BindDeviceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/adapter/BindDeviceAdapter.java
+END
+DeviceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/soniq/!svn/ver/373/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/adapter/DeviceAdapter.java
+END
+SetDeviceListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/adapter/SetDeviceListAdapter.java
+END
+SetDownloadListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/adapter/SetDownloadListAdapter.java
+END
+NameListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/adapter/NameListAdapter.java
+END

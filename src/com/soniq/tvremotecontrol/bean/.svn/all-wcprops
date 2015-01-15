@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/bean
+END
+ButtonInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/bean/ButtonInfo.java
+END
+AppInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/bean/AppInfo.java
+END
+DownloadTaskInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/bean/DownloadTaskInfo.java
+END
+DeviceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/bean/DeviceInfo.java
+END

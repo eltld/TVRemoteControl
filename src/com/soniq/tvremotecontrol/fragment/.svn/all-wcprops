@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/soniq/!svn/ver/381/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/fragment
+END
+ControllerFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/soniq/!svn/ver/381/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/fragment/ControllerFragment.java
+END
+AppmanageFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/soniq/!svn/ver/381/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/fragment/AppmanageFragment.java
+END
+MouseFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/soniq/!svn/ver/381/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/fragment/MouseFragment.java
+END
+SetFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/soniq/!svn/ver/372/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/fragment/SetFragment.java
+END
+EmarketFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/soniq/!svn/ver/381/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/fragment/EmarketFragment.java
+END

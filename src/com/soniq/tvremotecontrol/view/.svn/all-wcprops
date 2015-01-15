@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/soniq/!svn/ver/372/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/view
+END
+DownloadTaskPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/view/DownloadTaskPopupMenu.java
+END
+UserRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/soniq/!svn/ver/360/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/view/UserRegister.java
+END
+UserLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/soniq/!svn/ver/360/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/view/UserLogin.java
+END
+BindDevicesList.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/soniq/!svn/ver/360/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/view/BindDevicesList.java
+END
+ChangePwd.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/soniq/!svn/ver/360/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/view/ChangePwd.java
+END
+CustomPopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/view/CustomPopupWindow.java
+END
+SetAbout.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/soniq/!svn/ver/351/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/view/SetAbout.java
+END
+SetDownloadList.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/soniq/!svn/ver/360/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/view/SetDownloadList.java
+END
+BindDevicePopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/view/BindDevicePopupMenu.java
+END
+OpenPopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/soniq/!svn/ver/341/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/view/OpenPopupWindow.java
+END
+ClientUpgrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/soniq/!svn/ver/372/android/SoniqTVRemoteControl/src/com/soniq/tvremotecontrol/view/ClientUpgrade.java
+END
